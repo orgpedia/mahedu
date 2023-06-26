@@ -39,6 +39,17 @@ Government Resolution:
 A PMU is hereby set up to support the state government in the planning and
 implementation of the STARS project. The PMU will consist of the following Officers /
 Organizations -
+--------------------------------------------------------------------------
+| 1 | SPD, Samagra Shiksha, MPSP, mbai | Chairperson |
+| 2 | Director, SCERT, Maharashtra, Pune | Member Secretary |
+| 3 | Deputy Secretary, School Education and Sports Department (SD) | Member |
+| 4 | Education Specialist, UNICEF, Mumbai | Member |
+| 5 | EK Step Foundation, Bangalore | Member |
+| 6 | Leadership for Equity, Pune | Member |
+| 7 | Pratham, Mumbai | Member |
+| 8 | Two members nominated by Director, SCERT, Maharashtra, Pune | Member |
+| 9 | E-governance consultant appointed by the department Coordinator | Member |
+--------------------------------------------------------------------------
 SPD, Samgra Shiksha will work as head of the unit and Director, SCERT will be
 the member secretary of the unit.
 Each of the above agencies are directed to nominate a specific person as their
