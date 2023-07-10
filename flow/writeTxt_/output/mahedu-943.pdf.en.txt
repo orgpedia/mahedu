@@ -26,7 +26,6 @@ is being provided. The details of the budget are as follows:
 # Page 2
 Government Resolution No: NIDHIVI-2018/ PR No.124/ Training
 (a) the construction of new
-| a. No. Name of the work Estimated amount
 -----------------------------------------------------------------------------------------------------------------------------------------------------
 | A.A.                                            | the name of the work                               | the estimated amount of                    |
 | 1                                               | Renovation of Roofing, providing wall Ceiling to   | Rs. 17,40,599/                             |
@@ -69,7 +68,6 @@ Government Resolution No: NIDHIVI-2018/ PR No.124/ Training
 | SUB AMOUNT                               | Rs. 1,38,24, 605/                                   |
 -------------------------------------------------------------------------------------------------------------------------------
 (a) Renewable electrification
-| a. No. Name of the work Estimated amount
 -------------------------------------------------------------------------------------------------------
 | A.A.                                               | the name of the work | the estimated amount of |
 | Providing renovation to E.I. in the office of      |
