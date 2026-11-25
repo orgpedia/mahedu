@@ -1,0 +1,14 @@
+{
+  "name": "202410091942300121.pdf",
+  "file_id": "f_dab99b82b06d5167",
+  "source": {
+    "path": "input/pdfs/2024-10/202410091942300121.pdf",
+    "sha256": "dab99b82b06d5167d429a9c59f8ec6848130975d9e4a6a91d9d8a830aa028633"
+  },
+  "state": {
+    "last_revision": 2,
+    "edits_file": "202410091942300121.pdf.edits.yml",
+    "edits_hash": "",
+    "steps": {}
+  }
+}

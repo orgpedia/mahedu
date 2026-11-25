@@ -1,0 +1,29 @@
+# Written by `mahdept values` from department.yml (make does it before every docflow command): never edit it here.
+# flow.yml puts these in for ${name} when it loads (orgpedia/doc specs/docflow.md §P4a).
+data:
+  profiles: mh_gr-1
+  registry: empty
+  memory: empty
+profiles: mh_gr-1
+masthead_names: शालेय\s*शिक्षण\s*व\s*क्रीडा\s*विभाग
+masthead_words: शालेय
+max_pages: 20
+ocr: indic
+department:
+  code: mahedu
+  kind: department
+  names:
+    en: School Education and Sports Department
+  masthead:
+    names:
+    - शालेय शिक्षण व क्रीडा विभाग
+  max_pages: 20
+  cloud_vision_budget: 0.75
+  ocr: indic
+  set_aside:
+    rules: []
+  shared_lists: LFS/mahGRs/flow/mahedu/common
+  data:
+    profiles: mh_gr-1
+    registry: empty
+    memory: empty

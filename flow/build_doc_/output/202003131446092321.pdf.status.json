@@ -1,0 +1,14 @@
+{
+  "name": "202003131446092321.pdf",
+  "file_id": "f_400fd20e2e4dac81",
+  "source": {
+    "path": "input/pdfs/2020-03/202003131446092321.pdf",
+    "sha256": "400fd20e2e4dac8199d859ae355ffe8db8bec8020a2b53c0ac2359e56fa6964a"
+  },
+  "state": {
+    "last_revision": 2,
+    "edits_file": "202003131446092321.pdf.edits.yml",
+    "edits_hash": "",
+    "steps": {}
+  }
+}

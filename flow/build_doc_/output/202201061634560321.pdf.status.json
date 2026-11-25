@@ -1,0 +1,14 @@
+{
+  "name": "202201061634560321.pdf",
+  "file_id": "f_95b6aef7c9742039",
+  "source": {
+    "path": "input/pdfs/2022-01/202201061634560321.pdf",
+    "sha256": "95b6aef7c974203982577a3b76d4ff8b6e39af0a4ec5fd1f2a7c9177adf259f5"
+  },
+  "state": {
+    "last_revision": 2,
+    "edits_file": "202201061634560321.pdf.edits.yml",
+    "edits_hash": "",
+    "steps": {}
+  }
+}

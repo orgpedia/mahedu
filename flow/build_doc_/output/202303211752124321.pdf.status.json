@@ -1,0 +1,14 @@
+{
+  "name": "202303211752124321.pdf",
+  "file_id": "f_fda9dda62633e833",
+  "source": {
+    "path": "input/pdfs/2023-03/202303211752124321.pdf",
+    "sha256": "fda9dda62633e83319139485dabd878352eadff8fb3bccb9f3f4aa167512422f"
+  },
+  "state": {
+    "last_revision": 2,
+    "edits_file": "202303211752124321.pdf.edits.yml",
+    "edits_hash": "",
+    "steps": {}
+  }
+}

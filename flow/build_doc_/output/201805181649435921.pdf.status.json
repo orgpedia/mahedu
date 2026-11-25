@@ -1,0 +1,14 @@
+{
+  "name": "201805181649435921.pdf",
+  "file_id": "f_988ea0e2322c7433",
+  "source": {
+    "path": "input/pdfs/2018-05/201805181649435921.pdf",
+    "sha256": "988ea0e2322c743333c079d1e7fbf6471ea1e2e930607cc359c66f7976953c6e"
+  },
+  "state": {
+    "last_revision": 2,
+    "edits_file": "201805181649435921.pdf.edits.yml",
+    "edits_hash": "",
+    "steps": {}
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "202409161209246721.pdf",
+  "file_id": "f_cad231b71a719f5f",
+  "source": {
+    "path": "input/pdfs/2024-09/202409161209246721.pdf",
+    "sha256": "cad231b71a719f5faa8e9da87f27ddea8829d9f0096ba69bb8ce784edd4ec36e"
+  },
+  "state": {
+    "last_revision": 2,
+    "edits_file": "202409161209246721.pdf.edits.yml",
+    "edits_hash": "",
+    "steps": {}
+  }
+}

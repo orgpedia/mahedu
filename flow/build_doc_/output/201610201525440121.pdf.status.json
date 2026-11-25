@@ -1,0 +1,14 @@
+{
+  "name": "201610201525440121.pdf",
+  "file_id": "f_b8f48f4c746de910",
+  "source": {
+    "path": "input/pdfs/2016-10/201610201525440121.pdf",
+    "sha256": "b8f48f4c746de91048e7d83b0c7854234a444598096134fa40db16905c9f2ece"
+  },
+  "state": {
+    "last_revision": 2,
+    "edits_file": "201610201525440121.pdf.edits.yml",
+    "edits_hash": "",
+    "steps": {}
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "202011251709388521.pdf",
+  "file_id": "f_6fec60969929b3d4",
+  "source": {
+    "path": "input/pdfs/2020-11/202011251709388521.pdf",
+    "sha256": "6fec60969929b3d423decb7070afdc6bcc6080c092a48824e11a7c0aca2f0666"
+  },
+  "state": {
+    "last_revision": 2,
+    "edits_file": "202011251709388521.pdf.edits.yml",
+    "edits_hash": "",
+    "steps": {}
+  }
+}

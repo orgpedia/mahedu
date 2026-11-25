@@ -1,0 +1,14 @@
+{
+  "name": "201812141233506121.pdf",
+  "file_id": "f_6db7bd08ec3e2e61",
+  "source": {
+    "path": "input/pdfs/2018-12/201812141233506121.pdf",
+    "sha256": "6db7bd08ec3e2e61bfa6310a41fb8d2917544c616ac3b69a6fd910db1972c01d"
+  },
+  "state": {
+    "last_revision": 2,
+    "edits_file": "201812141233506121.pdf.edits.yml",
+    "edits_hash": "",
+    "steps": {}
+  }
+}

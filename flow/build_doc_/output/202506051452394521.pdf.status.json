@@ -1,0 +1,14 @@
+{
+  "name": "202506051452394521.pdf",
+  "file_id": "f_66487fc16af34eb4",
+  "source": {
+    "path": "input/pdfs/2025-06/202506051452394521.pdf",
+    "sha256": "66487fc16af34eb411379ad6b8930fbb915a8bd6a3c784e98c42b7c148dec93e"
+  },
+  "state": {
+    "last_revision": 2,
+    "edits_file": "202506051452394521.pdf.edits.yml",
+    "edits_hash": "",
+    "steps": {}
+  }
+}

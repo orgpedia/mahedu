@@ -1,0 +1,14 @@
+{
+  "name": "201712181641338321.pdf",
+  "file_id": "f_c888babe21d14a8c",
+  "source": {
+    "path": "input/pdfs/2017-12/201712181641338321.pdf",
+    "sha256": "c888babe21d14a8ce338ebf062dbdf13030a4dc23014a176de0877d43580698f"
+  },
+  "state": {
+    "last_revision": 2,
+    "edits_file": "201712181641338321.pdf.edits.yml",
+    "edits_hash": "",
+    "steps": {}
+  }
+}

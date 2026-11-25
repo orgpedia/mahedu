@@ -1,0 +1,14 @@
+{
+  "name": "202002061525219021.pdf",
+  "file_id": "f_f092bcaa765c6be3",
+  "source": {
+    "path": "input/pdfs/2020-02/202002061525219021.pdf",
+    "sha256": "f092bcaa765c6be3940c4e5d0e718670c791b23fd3b6fc866006d1dc95e53a0b"
+  },
+  "state": {
+    "last_revision": 2,
+    "edits_file": "202002061525219021.pdf.edits.yml",
+    "edits_hash": "",
+    "steps": {}
+  }
+}

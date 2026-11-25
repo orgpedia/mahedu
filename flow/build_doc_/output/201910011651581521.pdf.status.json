@@ -1,0 +1,14 @@
+{
+  "name": "201910011651581521.pdf",
+  "file_id": "f_f085ba09b4a2e2f2",
+  "source": {
+    "path": "input/pdfs/2019-10/201910011651581521.pdf",
+    "sha256": "f085ba09b4a2e2f2e1286555a24e84cfaa33ee4e5eed04b49fef975114988ced"
+  },
+  "state": {
+    "last_revision": 2,
+    "edits_file": "201910011651581521.pdf.edits.yml",
+    "edits_hash": "",
+    "steps": {}
+  }
+}

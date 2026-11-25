@@ -1,0 +1,14 @@
+{
+  "name": "202001151750484721.pdf",
+  "file_id": "f_ea970e6fdbb68f17",
+  "source": {
+    "path": "input/pdfs/2020-01/202001151750484721.pdf",
+    "sha256": "ea970e6fdbb68f17b3c9757ba4d80bb4b4c8783958ee90c73588013347be2617"
+  },
+  "state": {
+    "last_revision": 2,
+    "edits_file": "202001151750484721.pdf.edits.yml",
+    "edits_hash": "",
+    "steps": {}
+  }
+}

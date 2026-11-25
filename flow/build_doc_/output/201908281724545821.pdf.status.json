@@ -1,0 +1,20 @@
+{
+  "name": "201908281724545821.pdf",
+  "file_id": "f_a40640a622573f2f",
+  "source": {
+    "path": "input/pdfs/2019-08/201908281724545821.pdf",
+    "sha256": "a40640a622573f2fd5cce4adadf4ea3f5f7ca08d0b9c0b06541dfb8463b36b49"
+  },
+  "state": {
+    "last_revision": 1,
+    "edits_file": "201908281724545821.pdf.edits.yml",
+    "edits_hash": "",
+    "steps": {
+      "text": {
+        "status": "failed",
+        "reason": "Deferred: indic: deferred to a batch (logs/deferred.jsonl)",
+        "at": "2026-11-22T20:04:43.150970+00:00"
+      }
+    }
+  }
+}

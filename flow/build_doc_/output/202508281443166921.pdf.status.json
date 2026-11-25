@@ -1,0 +1,10 @@
+{
+  "name": "202508281443166921.pdf",
+  "file_id": null,
+  "source": {
+    "path": "input/pdfs/2025-08/202508281443166921.pdf",
+    "sha256": "8eca2f546da454ac91beae6d3ca69c50bcc4a31f4ecc357e16764a15eb540309"
+  },
+  "status": "skipped",
+  "reason": "23 pages, over max_pages 20"
+}

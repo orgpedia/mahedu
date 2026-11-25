@@ -1,0 +1,14 @@
+{
+  "name": "202407121656214221.pdf",
+  "file_id": "f_40c48f6e254c1830",
+  "source": {
+    "path": "input/pdfs/2024-07/202407121656214221.pdf",
+    "sha256": "40c48f6e254c1830be79de5c84c2bb40c9d5aec6ca6c628339ed3b9729709738"
+  },
+  "state": {
+    "last_revision": 2,
+    "edits_file": "202407121656214221.pdf.edits.yml",
+    "edits_hash": "",
+    "steps": {}
+  }
+}

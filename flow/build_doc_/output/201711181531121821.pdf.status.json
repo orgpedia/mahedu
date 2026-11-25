@@ -1,0 +1,14 @@
+{
+  "name": "201711181531121821.pdf",
+  "file_id": "f_76beee736dfbcace",
+  "source": {
+    "path": "input/pdfs/2017-11/201711181531121821.pdf",
+    "sha256": "76beee736dfbcaced1d153011806c8d311dca0a5144535ab5d1083322efd17f1"
+  },
+  "state": {
+    "last_revision": 2,
+    "edits_file": "201711181531121821.pdf.edits.yml",
+    "edits_hash": "",
+    "steps": {}
+  }
+}

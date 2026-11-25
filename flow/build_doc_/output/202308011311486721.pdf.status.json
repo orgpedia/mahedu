@@ -1,0 +1,14 @@
+{
+  "name": "202308011311486721.pdf",
+  "file_id": "f_049b26b3e535222c",
+  "source": {
+    "path": "input/pdfs/2023-08/202308011311486721.pdf",
+    "sha256": "049b26b3e535222c0fcbacc6b8272e5766d5b33ca5f5bd13e03524abac891250"
+  },
+  "state": {
+    "last_revision": 2,
+    "edits_file": "202308011311486721.pdf.edits.yml",
+    "edits_hash": "",
+    "steps": {}
+  }
+}

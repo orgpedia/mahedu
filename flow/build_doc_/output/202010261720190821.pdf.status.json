@@ -1,0 +1,14 @@
+{
+  "name": "202010261720190821.pdf",
+  "file_id": "f_14cb19d70456dd60",
+  "source": {
+    "path": "input/pdfs/2020-10/202010261720190821.pdf",
+    "sha256": "14cb19d70456dd601a176a620772bf4c1cd4505d865e773b76a580308f64dd68"
+  },
+  "state": {
+    "last_revision": 2,
+    "edits_file": "202010261720190821.pdf.edits.yml",
+    "edits_hash": "",
+    "steps": {}
+  }
+}

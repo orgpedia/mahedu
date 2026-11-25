@@ -1,0 +1,14 @@
+{
+  "name": "202503191718201721.pdf",
+  "file_id": "f_ceabc68a751984c6",
+  "source": {
+    "path": "input/pdfs/2025-03/202503191718201721.pdf",
+    "sha256": "ceabc68a751984c61a523af0c38a986bb2c765f1681984417c0f75a2e14e1273"
+  },
+  "state": {
+    "last_revision": 2,
+    "edits_file": "202503191718201721.pdf.edits.yml",
+    "edits_hash": "",
+    "steps": {}
+  }
+}

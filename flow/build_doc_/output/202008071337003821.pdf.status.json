@@ -1,0 +1,14 @@
+{
+  "name": "202008071337003821.pdf",
+  "file_id": "f_6a7011d6bcc9bc79",
+  "source": {
+    "path": "input/pdfs/2020-08/202008071337003821.pdf",
+    "sha256": "6a7011d6bcc9bc79b2ac4ea6bb52702a3f55b356291c064c699826e288221010"
+  },
+  "state": {
+    "last_revision": 2,
+    "edits_file": "202008071337003821.pdf.edits.yml",
+    "edits_hash": "",
+    "steps": {}
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "202103171150314421.pdf",
+  "file_id": "f_2b8d59d838803c3f",
+  "source": {
+    "path": "input/pdfs/2021-03/202103171150314421.pdf",
+    "sha256": "2b8d59d838803c3f72bb71c4583c99f7c2c24ca26db70c7fb1a739d77c418db7"
+  },
+  "state": {
+    "last_revision": 2,
+    "edits_file": "202103171150314421.pdf.edits.yml",
+    "edits_hash": "",
+    "steps": {}
+  }
+}

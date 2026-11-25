@@ -1,0 +1,14 @@
+{
+  "name": "201905221528212021.pdf",
+  "file_id": "f_cada441b8a269f7a",
+  "source": {
+    "path": "input/pdfs/2019-05/201905221528212021.pdf",
+    "sha256": "cada441b8a269f7ac1fe6f0207590f7d51976d17277a8e1210a8d4d6ee6d6ee0"
+  },
+  "state": {
+    "last_revision": 2,
+    "edits_file": "201905221528212021.pdf.edits.yml",
+    "edits_hash": "",
+    "steps": {}
+  }
+}

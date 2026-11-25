@@ -1,0 +1,14 @@
+{
+  "name": "202112291759457821.pdf",
+  "file_id": "f_beca642c8513da6d",
+  "source": {
+    "path": "input/pdfs/2021-12/202112291759457821.pdf",
+    "sha256": "beca642c8513da6d2d277576c7401bdcd9a3575f5842b2a023a3426a42102a45"
+  },
+  "state": {
+    "last_revision": 2,
+    "edits_file": "202112291759457821.pdf.edits.yml",
+    "edits_hash": "",
+    "steps": {}
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "202410141140264821.pdf",
+  "file_id": "f_df82071a939b119f",
+  "source": {
+    "path": "input/pdfs/2024-10/202410141140264821.pdf",
+    "sha256": "df82071a939b119f608f0a0d1d89c3e1f1c5035e3cd56d8b885ca03098e46b13"
+  },
+  "state": {
+    "last_revision": 2,
+    "edits_file": "202410141140264821.pdf.edits.yml",
+    "edits_hash": "",
+    "steps": {}
+  }
+}
