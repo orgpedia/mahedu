@@ -1,0 +1,28 @@
+{
+  "name": "201709261243533521.pdf",
+  "file_id": "f_04598d174d039d7c",
+  "state": {
+    "edits_file": "201709261243533521.pdf.edits.yml",
+    "edits_hash": "",
+    "last_revision": 2,
+    "steps": {}
+  },
+  "status": "done",
+  "issues": {
+    "total": 0,
+    "by_code": {}
+  },
+  "versions": {
+    "glossary": {
+      "task": "glossary_tagger",
+      "version": "2",
+      "config_hash": "0117b7405a1d20dd"
+    }
+  },
+  "output": {
+    "path": "../../export/translate_/201709261243533521.pdf.en.json.zst",
+    "sha256": "ffe3198a2a1eaf8da7f639cf88c308567521634ea50f9d6fe44d685c34e81b83",
+    "size": 424,
+    "revision": 2
+  }
+}

@@ -8,7 +8,7 @@ profiles: mh_gr-1
 masthead_names: शालेय\s*शिक्षण\s*व\s*क्रीडा\s*विभाग
 masthead_words: शालेय
 max_pages: 20
-ocr: indic
+ocr: none
 department:
   code: mahedu
   kind: department
@@ -19,7 +19,7 @@ department:
     - शालेय शिक्षण व क्रीडा विभाग
   max_pages: 20
   cloud_vision_budget: 0.75
-  ocr: indic
+  ocr: none
   set_aside:
     rules: []
   shared_lists: LFS/mahGRs/flow/mahedu/common
